@@ -176,6 +176,7 @@ input, select, textarea {
 	em, i {
 		font-style: italic;
 	}
+	
 
 	p {
 		margin: 0 0 2em 0;
@@ -2562,6 +2563,9 @@ input, select, textarea {
 			ul.actions.fit.stacked {
 				width: 100%;
 			}
+			ul.why {
+				list-style-type: none;
+			  }
 
 		@media screen and (max-width: 480px) {
 
